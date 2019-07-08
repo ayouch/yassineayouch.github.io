@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>https://ayouch.me/</loc>
-  </url>
-  <url>
-    <loc>https://ayouch.me/contact.html</loc>
-  </url>
-  <url>
-    <loc>https://ayouch.me/companies.html</loc>
-  </url>
-  <url>
-    <loc>https://ayouch.me/index.html</loc>
-  </url>
-  <url>
-    <loc>https://ayouch.me/about.html</loc>
-  </url>
+<url>
+<loc>https://ayouch.me/</loc>
+<lastmod>2019-07-08T21:40:01+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://ayouch.me/index.html</loc>
+<lastmod>2019-07-08T21:40:01+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://ayouch.me/about.html</loc>
+<lastmod>2019-07-08T21:40:00+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://ayouch.me/companies.html</loc>
+<lastmod>2019-07-08T21:40:01+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://ayouch.me/contact.html</loc>
+<lastmod>2019-07-08T21:40:01+00:00</lastmod>
+<priority>0.80</priority>
+</url>
 </urlset>
-<!--<guid value="8de5acd7-8287-4160-b6d7-496f81c69c9e" />-->
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
