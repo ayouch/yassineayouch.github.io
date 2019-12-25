@@ -40,15 +40,6 @@
 			expandMode: (browser.mobile ? 'click' : 'hover')
 		});
 
-	// Nav Panel.
-
-		// Button.
-			$(
-				'<div id="navButton">' +
-					'<a href="#navPanel" class="toggle"></a>' +
-				'</div>'
-			)
-				.appendTo($body);
 
 		// Panel.
 			$(
