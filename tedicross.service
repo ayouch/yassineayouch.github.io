@@ -8,8 +8,8 @@ Restart=always
 StandardOutput=syslog
 StandardError=syslog
 SyslogIdentifier=tedicross
-User=tedicross
-Group=tedicross
+User=root
+Group=root
 
 [Install]
 WantedBy=multi-user.target
