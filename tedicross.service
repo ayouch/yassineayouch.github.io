@@ -10,8 +10,6 @@ StandardError=syslog
 SyslogIdentifier=tedicross
 User=root
 Group=root
-Environment=TELEGRAM_BOT_TOKEN=1277361688:AAHQ5jB7FIoI7YfkSaVxlfJ-_0tHr8TxImg
-Environment=DISCORD_BOT_TOKEN=NzM1ODMxNjExNzU2NzczMzg2.XxmXdA.BZPzl7tuis5u5rgkz_F2-6iYnvA
-
+Environment=DISCORD_BOT_TOKEN=secret
 [Install]
 WantedBy=multi-user.target
