@@ -1,0 +1,15 @@
+[Unit]
+Description=Ted
+
+[Service]
+ExecStart=/usr/bin/npm start
+WorkingDirectory=/home/tedicross/TediCross
+Restart=always
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=tedicross
+User=tedicross
+Group=tedicross
+
+[Install]
+WantedBy=multi-user.target
